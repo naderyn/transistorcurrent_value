@@ -1,5 +1,3 @@
-# transistorcurrent_value
- a model that predicts the transistor current value based on some parameters.
 
 This repository contains a deep learning model to predict the transistor current (id(uA)) based on various parameters.
 
